@@ -92,4 +92,28 @@ Alunos, professores, funcionários, fornecedores e escola.
 
 ![3  Diagrama de Classe](https://github.com/Leocmgb/PROJETO-INTEGRADOR-DESENVOLVIMENTO-DE-SISTEMAS-ORIENTADO-A-OBJETOS-/assets/103227890/32ce9c18-070a-472d-9138-f23c417667a4)
 
+# 4.  Protótipo de um sistema de gestão escolar de um centro universitário
 
+# Página inicial
+
+![Figura 3 0 – Página inicial](https://github.com/Leocmgb/PROJETO-INTEGRADOR-DESENVOLVIMENTO-DE-SISTEMAS-ORIENTADO-A-OBJETOS-/assets/103227890/63af62bb-5810-459c-9849-64d7fdb9df57)
+
+# Página de login
+
+
+
+# Cadastro de aluno
+
+![Figura 5 0 – Cadastro de aluno](https://github.com/Leocmgb/PROJETO-INTEGRADOR-DESENVOLVIMENTO-DE-SISTEMAS-ORIENTADO-A-OBJETOS-/assets/103227890/235c0d09-5197-4abd-9235-cca0b7e471cd)
+
+# Área do aluno
+
+![Figura 6 0 – Área do aluno](https://github.com/Leocmgb/PROJETO-INTEGRADOR-DESENVOLVIMENTO-DE-SISTEMAS-ORIENTADO-A-OBJETOS-/assets/103227890/89ceefe9-2392-407f-bd8d-020fee24238e)
+
+# Área Administrativa
+
+![Figura 7 0 – Área administrativa](https://github.com/Leocmgb/PROJETO-INTEGRADOR-DESENVOLVIMENTO-DE-SISTEMAS-ORIENTADO-A-OBJETOS-/assets/103227890/bd6a0175-11cc-4dd9-8471-87c3e23527ff)
+
+# Área do fornecedor
+
+![Figura 8 0 – Área do fornecedor](https://github.com/Leocmgb/PROJETO-INTEGRADOR-DESENVOLVIMENTO-DE-SISTEMAS-ORIENTADO-A-OBJETOS-/assets/103227890/5f8f937c-58d6-48e0-ac94-977f41aeea63)
