@@ -98,21 +98,26 @@ Alunos, professores, funcionários, fornecedores e escola.
 
 ![Figura 3 0 – Página inicial](https://github.com/Leocmgb/PROJETO-INTEGRADOR-DESENVOLVIMENTO-DE-SISTEMAS-ORIENTADO-A-OBJETOS-/assets/103227890/63af62bb-5810-459c-9849-64d7fdb9df57)
 
+
 #### Página de login
 
 ![Figura 4 0 – Página de login](https://github.com/Leocmgb/PROJETO-INTEGRADOR-DESENVOLVIMENTO-DE-SISTEMAS-ORIENTADO-A-OBJETOS-/assets/103227890/ed647901-bcb0-4f60-885f-de6401475ded)
+
 
 #### Página de cadastro de aluno
 
 ![Figura 5 0 – Cadastro de aluno](https://github.com/Leocmgb/PROJETO-INTEGRADOR-DESENVOLVIMENTO-DE-SISTEMAS-ORIENTADO-A-OBJETOS-/assets/103227890/235c0d09-5197-4abd-9235-cca0b7e471cd)
 
+
 #### Página de área do aluno
 
 ![Figura 6 0 – Área do aluno](https://github.com/Leocmgb/PROJETO-INTEGRADOR-DESENVOLVIMENTO-DE-SISTEMAS-ORIENTADO-A-OBJETOS-/assets/103227890/89ceefe9-2392-407f-bd8d-020fee24238e)
 
+
 #### Página da área Administrativa
 
 ![Figura 7 0 – Área administrativa](https://github.com/Leocmgb/PROJETO-INTEGRADOR-DESENVOLVIMENTO-DE-SISTEMAS-ORIENTADO-A-OBJETOS-/assets/103227890/bd6a0175-11cc-4dd9-8471-87c3e23527ff)
+
 
 #### Página da área do fornecedor
 
